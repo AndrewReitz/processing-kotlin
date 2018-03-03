@@ -1,6 +1,6 @@
 = Processing Kotlin Template
 
-This is a template to be able to use kotlinlang.org[Kotlin] with http://processing.org[Processing]
+This is a template to be able to use http://kotlinlang.org[Kotlin] with http://processing.org[Processing]
 
 If enough interest, maybe I will create a https://github.com/pledbrook/lazybones[Lazybones Template].
 Until then just copy the contents of this project and update the contents of Main.kt.
